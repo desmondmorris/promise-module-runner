@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "vm2": "^1.0.1"
+  }
+}
